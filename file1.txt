@@ -1,4 +1,4 @@
-my first line
+my first line new_branch
 my second line
 my third line master
 my fourth line new_branch
